@@ -46,7 +46,7 @@ button:hover {
 
 .box a {
     line-height: 100px;
-    font-size: 1em;
+    font-size: 0.75em;
     color: white;
     transition: all 2s ease 0s;
 }
