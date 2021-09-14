@@ -1,0 +1,80 @@
+Admin
+
+- การเข้าสู่ระบบ
+	. Information / News
+		- อัพข้อความ
+	. Data ผู้ใช้งาน
+		- สมาชิก
+			- INFO 
+				* ID , USER, E-mail   -> Can't Edit 
+				* PW, FName, LName, Sex, DFB, Tel  ->  Edit 
+			- Payment
+
+				* Pomptpay
+					A01   -   A25 - AAAAAA
+					สายต้น / สายปลาย /  เลขสุ่ม 6 หลัก
+					- Order Number ( XXX-XXX-XXXXX-XXXXXX )	
+					- DD/MM/YYYY, HH:MM (24 H)
+					- Price ( XXX.XX )
+				* Credit Card (16 dit)
+					- ID 16 -> XXXX-XXXX-XXXX-XXXX
+					- Exp. ->   MM / YY
+					- Csv -> XXX
+					- Name + LName -> XXXXX XXXX 
+					- Money Cost -> 10,000 B
+			- ประวัติการซื้อ
+				- ใบเสร็จ (ดู)
+		- เกส 
+			- Name : Guest 123
+	. Orer List (View Only)
+		- Order Table
+			* (NO.) / (ORDER NO.)/(DD MM YYYY)/ (HH MM) / (PRICES) / (SLIPS) / (Payment Status)/  (COMMENT)
+		- Sort / Search
+			* Row / Column
+		- Payment Check
+			* Order number
+			* Button (APPOVE / REJECT)	-> POP UP -> OK
+	. Statics
+		- Day / Month / Year
+			- Station ()
+			- User Online			
+	. Alert Sos 
+		- แจ้งปัญหา / ข้อเสนอแนะ (ดู)
+
+	. Connection info / Station info
+		- ชื่อไทย ชื่ออังกฤษ
+		- รหัสสถานี
+		- หน้าแก้ไขข้อมูลสถานี
+	. Tickets
+		- 
+User
+	. Data ผู้ใช้งาน
+		- สมาชิก
+			- INFO 
+				* ID , USER, E-mail   -> Can't Edit 
+				* PW, FName, LName, Sex, DFB, Tel  ->  Edit 
+			- Payment
+
+				* Pomptpay
+					A01   -   A25 - AAAAAA
+					สายต้น / สายปลาย /  เลขสุ่ม 6 หลัก
+					- Order Number ( XXX-XXX-XXXXX-XXXXXX )	
+					- DD/MM/YYYY, HH:MM (24 H)
+					- Price ( XXX.XX )
+				* Credit Card (16 dit)
+					- ID 16 -> XXXX-XXXX-XXXX-XXXX
+					- Exp. ->   MM / YY
+					- Csv -> XXX
+					- Name + LName -> XXXXX XXXX 
+					- Money Cost -> 10,000 B
+			- ประวัติการซื้อ
+				- ใบเสร็จ (ดู)
+		- เกส 
+			- Name : Guest 123
+	. ประวัติการซื้อ
+		- ใบเสร็จ (ดู)
+
+	. Alert SOS 
+		- แจ้งปัญหา / ข้อเสนอแนะ (แจ้ง)
+
+
