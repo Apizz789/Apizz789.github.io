@@ -8,7 +8,8 @@ Admin
 			- INFO 
 				* ID , USER, E-mail   -> Can't Edit 
 				* PW, FName, LName, Sex, DFB, Tel  ->  Edit 
-			- Payment
+			- Payment ( จ่ายเงินสำเร็จ / จำลอง )
+				* More Option...
 
 				* Pomptpay
 					A01   -   A25 - AAAAAA
@@ -16,7 +17,7 @@ Admin
 					- Order Number ( XXX-XXX-XXXXX-XXXXXX )	
 					- DD/MM/YYYY, HH:MM (24 H)
 					- Price ( XXX.XX )
-				* Credit Card (16 dit)
+				* Credit Card (16 dit) -> Select Option
 					- ID 16 -> XXXX-XXXX-XXXX-XXXX
 					- Exp. ->   MM / YY
 					- Csv -> XXX
